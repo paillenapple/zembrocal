@@ -1,0 +1,16 @@
+.navigation {
+  background-color: #869D96;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+    margin: -4px -8px;
+  }
+
+  &__item {
+    margin: 4px 8px;
+  }
+
+  &__link {}
+}
